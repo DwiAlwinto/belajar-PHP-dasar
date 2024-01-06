@@ -1,0 +1,6 @@
+1. Arithmetic Opertor
+2. Assignment Opertor
+3. Comparison Opertor
+4. Logical Opertor
+5. String Opertor
+6. Conditionl Opertor

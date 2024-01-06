@@ -1,0 +1,8 @@
+//GET & POST  di PHP
+adalah sebuah method yang kita butuhkan untuk mengerim data agar diproses lebih lanjut, contoh untuk login.
+Perbedaan get and post.
+    get itu ada query string.
+    <!-- get = fokus di url browser kalau dimasukan get akan berbeda : http://localhost:3000/11-GET-AND-POST/1-GET-AND-POST.php?nama=Alwin&jurusan=Teknik+Kendaran+Ringan&submit=Kirim ( ini nama ya query string)-->
+
+    post tidak ada query string(tapi aslinya ada query string tpi tersimpan dalam hati aja)
+    http://localhost:3000/11-GET-AND-POST/1-GET-AND-POST.php

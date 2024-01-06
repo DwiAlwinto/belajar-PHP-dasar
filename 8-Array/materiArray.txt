@@ -1,0 +1,18 @@
+Array PHP :
+Wajib tahu itu apa itu array.
+Array adalah variable yang bisa menyimpan lebih dari 1 value atau Nilai.
+Cara membuat array di PHP ada 2 yaitu :
+1. $siswa = array();
+2. $siswa = [];
+
+contoh ya : 
+    $siswa = array("budi", "alwin", "vindy");
+    $siswa = ["budi", "alwin", "vindy"];
+    $angka = [1, 2, 3 , 4,  5];
+
+    cara ke dua lebih ringkas.
+
+    Jenis-jenis Array :
+    1. Indexed Array
+    2. Associative Array
+    3. Multidimensional Array

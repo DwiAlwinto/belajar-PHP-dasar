@@ -1,0 +1,2 @@
+Looping atau loop atau perulangan di php 
+Fungsi loop adalah menjalankan fungsi/code/script secara berulang-ulang selama kondisi terpenuhi.

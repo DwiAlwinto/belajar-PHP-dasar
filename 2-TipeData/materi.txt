@@ -1,0 +1,12 @@
+Jenis-jenis Tipe data di PHP :
+yang akan dipelajari :
+1. String
+2. Integer
+3. Float
+4. Boolean
+5. Array
+6.Object (php oop) ini akan dipelajari ketikan sudah diatas pemula.
+7.Null
+
+
+

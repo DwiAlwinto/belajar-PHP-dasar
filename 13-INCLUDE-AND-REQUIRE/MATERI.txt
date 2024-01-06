@@ -1,0 +1,15 @@
+Apa itu Inculde di php :
+    Cara menyisipkan file ke dalam file php.
+    apa manfaatnya :
+    Bisa menggunakan resource  dari file lain sehingga tidak perlu mengetik berkali kali.
+
+Perbedaan include dan require :
+    1. Fungsi ya sama saja.
+    2. apa saja ya di Inculde dan di require di file itu, maka value dan apa pun akan di copy di file yang kita Inculde atau require.
+
+cara pakai nya :
+include "include.php";  (include method bawaan php) ("include.php" = ini alamat include yang kita mau copy)
+require "include.php";  
+
+Perbedaan Require dan Include adalah :
+

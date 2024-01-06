@@ -1,0 +1,24 @@
+Sesion adalah : sebuah cara untuk menyimpan nilai atau value atau informasi ke dalam variable, dimana variable digunakan halaman, contoh profil about, dll.
+
+Sesion di PHP : 
+    Yaitu cara untuk menyimpan data/value/informasi ke dalam variable yang bisa digunakan di banyak halaman website.
+Kegunaan sesion di php  contohnya :
+    Pengenalan user sudah login atau belum.
+
+Syantx sesion di PHP :
+1. session_start() : memberi tahu ke session kalau kita menggunakan fitur session.
+
+2. $_SESSION["nama"] = "ALwin"
+    membaut variable session nama dengan nilai ALwin
+
+3. $_SESSION["nama"] : get value dari session nama
+
+4. $_SESSION["nama"] = "Delia"
+    ubah nilai session nama dari Alwin menjadi Delia
+
+5. session_unset() = hapus semua nilai session yang telah kita buat.
+
+6. session_destroy()
+    hapus session/membatalkan syntax dari session_start()
+
+

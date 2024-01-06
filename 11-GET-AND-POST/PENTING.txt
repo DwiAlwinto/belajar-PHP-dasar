@@ -1,0 +1,2 @@
+Sebaiknya kita menggunakan method POST kalau membuat FORM
+GET Ini dipakai tidak terlalu penting contoh ya menampilkan halaman detail dari suatu produk detail-detailnya.

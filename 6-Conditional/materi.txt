@@ -1,0 +1,19 @@
+Condition if, else dan else if
+Apa itu :
+Mendapatkan suatu hasil dari setiap kondisional.
+
+Mislanya form login.
+Kondisi : username dan password. 
+Hasilnya : berhasil login.
+
+// Jenis-jenis conditionl :
+    1. if
+    2. else if
+    3. if, else if, else
+
+
+makan di restoran all you can eat. Tiket masuk 100.000 rupiah, Tentukan tiket masuk yang harus dibayar.
+1. Anak umur 5 Tahun.
+2. Remaja umur 14 Tahun.
+3. Orang dewasa umur 27 Tahun.
+Dengan kententuan : jika umur pengungjung kurang dari 6 tahun, maka dapat diskon 50%. Jika umur pengunjung 7-15 Tahun, maka dapat diskon 30%. Selain itu tidak dapat diskon.
